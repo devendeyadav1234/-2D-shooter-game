@@ -1,6 +1,6 @@
 # 2D Shooter Game
 
-This is a 2D shooter game developed by Harsh. 
+This is a 2D shooter game developed by Devender Yadav. 
 
 The game features a custom cursor for shooting alien spaceships, scoring mechanics, background music, and sound effects. 
 
@@ -34,7 +34,7 @@ Spaceship prefabs instantiate randomly at intervals, adding to the dynamic gamep
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Harsh-Goenka/2D-Shooter-Game.git
+   git clone https://github.com/devendeyadav1234/-2D-shooter-game
    ```
 2. **Open the project in Unity:**
 
